@@ -1,0 +1,5 @@
+1. Repository creation/deletion
+2. Branch creation/deletion
+3. Tag creation/deletion
+4. Add/Edit/delete file and commit changes
+5. List the logs and check details info about commits
